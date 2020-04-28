@@ -1,12 +1,13 @@
 # fc-blog-web
 
-## Project setup
-```
-npm install
-```
+> freecity.club web blog project, build base on vue & iview.
 
-### Compiles and hot-reloads for development
+> source website: [fc-blog-web](https://github.com/wyc194/fc-blog-web)
+
+## Local develop
 ```
+git clone git@github.com:wyc194/fc-blog-web.git
+npm install
 npm run serve
 ```
 
