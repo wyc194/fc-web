@@ -2,7 +2,7 @@
   <Layout style="background-color: #f1f1f1;">
     <Row>
       <Col style="text-align: center; margin-top: 8px;">
-        <a style="text-decoration: none;">京公网安备1010091号</a> - 豫ICP备19016048号
+        <a style="text-decoration: none;">公网安备-待备案</a> - 豫ICP备19016048号
       </Col>
       <Divider style="font-size: 14px; margin-top: 8px;">©2020 FreeCity - 访问量: {{ visitCounts }}</Divider>
     </Row>
