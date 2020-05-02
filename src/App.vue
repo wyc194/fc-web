@@ -1,3 +1,4 @@
+<!--  测试自动构建  -->
 <template>
   <div id="app">
     <router-view />
