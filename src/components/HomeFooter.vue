@@ -2,7 +2,7 @@
   <Layout style="background-color: #f1f1f1;">
     <Row>
       <Col class="icp">
-        豫ICP备19016048号 - <a>公网安备-待备案</a>
+        <a rel="nofollow" href="http://www.beian.miit.gov.cn" target="_blank">豫ICP备19016048号</a> - <a>公网安备-待备案</a>
       </Col>
       <Divider class="visitor" style="margin-top: 8px;">
         <span>©2020 FreeCity</span>
