@@ -1,10 +1,13 @@
 <template>
-  <router-view />
+  404
 </template>
 
 <script>
-
 export default {
-  name: 'App'
+  name: 'ErrorPage'
 }
 </script>
+
+<style scoped>
+
+</style>
