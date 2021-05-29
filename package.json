@@ -9,14 +9,14 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
-    "core-js": "^3.6.5",
+    "core-js": "^3.13.1",
     "echarts": "^5.1.1",
     "element-plus": "^1.0.2-beta.36",
     "nprogress": "^0.2.0",
     "regulex_common": "^0.1.0",
     "vue": "^3.0.11",
     "vue-router": "^4.0.0-0",
-    "vuex": "^4.0.0-0"
+    "vuex": "^4.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
