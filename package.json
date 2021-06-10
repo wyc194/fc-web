@@ -3,18 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "serve": "vue-cli-service serve  --modern",
     "build": "vue-cli-service build --modern",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "axios": "^0.21.1",
     "core-js": "^3.13.1",
+    "cron-parser": "^3.5.0",
     "echarts": "^5.1.1",
     "element-plus": "^1.0.2-beta.36",
     "nprogress": "^0.2.0",
     "regulex_common": "^0.1.0",
-    "vue": "^3.0.11",
+    "vue": "3.0.11",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.1"
   },
@@ -35,6 +36,7 @@
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^7.0.0",
+    "script-ext-html-webpack-plugin": "^2.1.5",
     "style-loader": "^2.0.0",
     "stylus": "^0.54.8",
     "stylus-loader": "^3.0.2"

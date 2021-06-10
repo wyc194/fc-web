@@ -4,6 +4,8 @@ import Layout from '../components/layout'
 import Blank from '../components/layout/blank'
 import Home from '../views/home/index'
 import Regulex from '../views/tools/regex/regulex'
+import Regular from '../views/tools/regex/regular'
+import Cron from '../views/tools/cron'
 import Login from '../views/login'
 import ErrorPage from '../views/error'
 
@@ -34,6 +36,18 @@ const routes = [
         name: 'regulex',
         component: Regulex,
         meta: { title: '图解正则表达式' }
+      },
+      {
+        path: 'regular',
+        name: 'regular',
+        component: Regular,
+        meta: { title: '在线正则表达式' }
+      },
+      {
+        path: 'cron',
+        name: 'cron',
+        component: Cron,
+        meta: { title: '在线Cron表达式' }
       }
     ]
   },

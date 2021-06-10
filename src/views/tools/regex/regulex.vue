@@ -1,6 +1,9 @@
 <template>
   <div class="regulex">
-    <h1>Regulex_common <em>JavaScript Regular Expression Visualizer.</em></h1>
+    <h1 @click="Window.open('https://www.npmjs.com/package/regulex_common','_blank')">
+      Regulex_common
+      <em>JavaScript Regular Expression Visualizer.</em>
+    </h1>
     <div class="re-input">
       <el-input v-model="regex" size="large" placeholder="请输入正则表达式">
         <template #prepend>/</template>

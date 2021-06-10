@@ -15,10 +15,10 @@
       </template>
       <el-menu-item-group title="正则表达式">
         <el-menu-item index="/regulex">图解正则表达式</el-menu-item>
-        <el-menu-item index="1-2">在线正则表达式</el-menu-item>
+        <el-menu-item index="/regular">在线正则表达式</el-menu-item>
       </el-menu-item-group>
       <el-menu-item-group title="Corn表达式">
-        <el-menu-item index="1-3">在线Corn表达式</el-menu-item>
+        <el-menu-item index="/cron">在线Corn表达式</el-menu-item>
       </el-menu-item-group>
       <el-submenu index="1-4">
         <template #title>选项信息</template>
